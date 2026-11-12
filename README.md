@@ -47,7 +47,7 @@ The system consists of:
 
 See schematic:
 
-[schematic.png](hardware/Schematic.png)
+![schematic.png](hardware/Schematic.png)
 
 
 The compressor and valve are driven using transistor-based low-side switching with flyback diode protection to prevent inductive voltage spikes.
